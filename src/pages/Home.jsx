@@ -36,6 +36,12 @@ export default function Home() {
           <Link className="btn btn-outline min-h-[44px]" to="/compatibility" aria-label="Try Compatibility">
             Try Compatibility
           </Link>
+          <Link className="btn btn-outline min-h-[44px]" to="/birth-chart" aria-label="Birth Chart">
+            Get Your Birth Chart using Gemini AI
+          </Link>
+          <Link className="btn btn-outline min-h-[44px]" to="/ai" aria-label="Gemini AI">
+            Talk With AI(Gemini)
+          </Link>
           <span className="pill min-h-[36px]">No login • Super fast ⚡</span>
         </div>
       </div>
